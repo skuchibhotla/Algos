@@ -38,6 +38,8 @@ namespace Serialization
             Console.WriteLine(newObj.ID);
             Console.WriteLine(newObj.Name);
 
+            Console.ReadKey();
+
 
         }
     }
