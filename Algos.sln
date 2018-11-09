@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{4CA79523-D961-40DF-8034-35399DFBFB11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi", "TowersOfHanoi\TowersOfHanoi.csproj", "{5B2EF3F1-CE38-4A26-9489-3328BDA67EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4CA79523-D961-40DF-8034-35399DFBFB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA79523-D961-40DF-8034-35399DFBFB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA79523-D961-40DF-8034-35399DFBFB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2EF3F1-CE38-4A26-9489-3328BDA67EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2EF3F1-CE38-4A26-9489-3328BDA67EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2EF3F1-CE38-4A26-9489-3328BDA67EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2EF3F1-CE38-4A26-9489-3328BDA67EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
