@@ -25,7 +25,7 @@ namespace TowersOfHanoi
             if(n > 0)
             {
                 SolveTowers(n - 1, startPeg, tempPeg, endPeg);
-                Console.WriteLine("Move disk from " + startPeg + ' to ' + endPeg);
+                Console.WriteLine("Move disk from " + startPeg + " to " + endPeg);
                 SolveTowers(n - 1, tempPeg, endPeg, startPeg);
             }
         }
